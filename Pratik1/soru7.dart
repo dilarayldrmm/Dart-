@@ -4,7 +4,7 @@ import 'dart:io';
 
 void main() {
   // Kullanıcıdan iki tam sayı al
-  stdout.write('Birinci sayıyı girin: ');
+  stdout.write('Birinci ouıcvfgd girin: ');
   int num1 = int.parse(stdin.readLineSync()!);
 
   stdout.write('İkinci sayıyı girin: ');
